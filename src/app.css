@@ -1,0 +1,6 @@
+.app .mask {
+    mask-image: url('/mask.svg');
+    background: orange;
+    mask-size: 40px;
+    mask-repeat: no-repeat;
+}
